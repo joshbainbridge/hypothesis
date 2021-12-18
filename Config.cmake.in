@@ -1,0 +1,7 @@
+# Add any library dependencies
+
+# (no dependencies needed)
+
+# Include the auto-generated targets
+
+include("${CMAKE_CURRENT_LIST_DIR}/@PROJECT_NAME@Targets.cmake")
